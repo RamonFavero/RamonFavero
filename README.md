@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <h1> Olá !! Sou o<i> Ramon Fávero.</i> </h1>
 
-- 🎓 Estou começando meu tecnólogo em Análise e desenvolvimento de sistemas na UVA.
-- 🎓 Tenho fluência em inglês e com isso fiz o curso da Angela Yu no Udemy :https://www.udemy.com/course/the-complete-web-development-bootcamp/ até o módulo de React.(ficou faltando Web3 and DApps)
-- 🌱 Como meu foco é React estou começando o curso: https://www.udemy.com/course/react-avancado/   
+- 🎓 Estou no 2º periodo do meu tecnólogo em Análise e desenvolvimento de sistemas na UVA.
+- 🎓 Tenho fluência em inglês e com isso fiz o curso da Angela Yu no Udemy :https://www.udemy.com/course/the-complete-web-development-bootcamp/
+- 🌱 Tenho grande interesse em backend e por isso estou mais focado em NodeJS.
 - 👨‍💻 Estou em busca de uma vaga de estágio para iniciar minha carreira de programação.
 
 
